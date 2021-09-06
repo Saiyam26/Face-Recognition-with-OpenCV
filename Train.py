@@ -31,7 +31,6 @@ def create_train():
 
 
 faces, labels = create_train()
-print(f'Length of Training Data is {len(faces)}\n')
 
 print('Training Started')
 lbph.train(faces, labels)
