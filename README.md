@@ -2,7 +2,7 @@
 
 - This is a simple Face Recognition project using Python OpenCV, to learn and understand the basics of a project. This project is inspired by https://github.com/leodlca/lbph-face-recognition.
 - For Face Detection we use OpenCV's cascade: *haarcascade_frontalface_alt.xml*, which can be found at https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml.
-- It uses the LPBH Algorithm for training and recognizing the different faces.
+- We use the Local Binary Pattern Histogram (LBPH) Algorithm for training and recognizing the different faces. LBPH algorithm creates More about the LBPH algorithm at https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
 
 ### Requirements
 
